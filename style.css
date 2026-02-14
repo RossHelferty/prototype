@@ -1,3 +1,25 @@
 body{
+    z-index: 1;
+    background-color: rgb(7, 17, 31);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: top;
+
+    font-family: monospace;
+}
+
+#backgroundimage{
     
+}
+
+.overworld{
+    width:0%;
+    height:auto;
+    float:unset;
+}
+
+.overworld:hover{
+    width: 0%;
+    height:auto;
 }
